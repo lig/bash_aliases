@@ -1,0 +1,6 @@
+alias dir="ls -Alh"
+alias venv="virtualenv --no-site-packages venv"
+alias activate=". venv/bin/activate"
+alias download="wget -c -t0"
+alias sss="ssh -p2222"
+alias untar="tar xvf"
