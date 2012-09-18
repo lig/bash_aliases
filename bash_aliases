@@ -6,3 +6,7 @@ alias activate3=". venv3/bin/activate"
 alias download="wget -c -t0"
 alias sss="ssh -p2222"
 alias untar="tar xvf"
+alias wodim='wodim -v -eject'
+alias df='LANG=en df -h'
+alias clone='cp -pr'
+alias makekey='makepasswd --chars=64 --string="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\!#$%&()*+,-./:;<=>?@[\\]^_{|}~"'
