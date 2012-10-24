@@ -4,6 +4,7 @@ alias clone='cp -pr'
 alias df='LANG=en df -h'
 alias dir="ls -Alh --time-style=long-iso"
 alias download="wget -c -t0"
+alias erun="erl -detached -s"
 alias makekey='makepasswd --chars=64 --string="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\!#$%&()*+,-./:;<=>?@[\\]^_{|}~"'
 alias sss="ssh -p2222"
 alias untar="tar xvf"
